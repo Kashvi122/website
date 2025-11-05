@@ -1,0 +1,19 @@
+body{
+    background: #8bd2f6;
+    margin: 0;
+}
+
+#main-div{
+    background: #ef98ef;
+    width: 70%;
+    height: 600px;
+    /* margin-top: 0; */
+    margin-left: 15%;
+}
+
+#name{
+    color: #091291;
+    text-align: center;
+    border: solid #000000 5px;
+    margin-top: 10px;
+}
